@@ -1,3 +1,3 @@
 <?php 
-  Hola Perales :D
-php>
+ echo "Hola Mundo 2";
+?>
